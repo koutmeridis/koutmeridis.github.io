@@ -47,6 +47,8 @@ PhD Methods Training: Identifying Causal Effects, Finding Gaps in the Lit, Advic
 
 <a href="https://researchtheheadlines.org/2017/09/21/talking-headlines-with-theo-koutmeridis-media-brexit-and-the-scottish-economy/">Interview on Brexit and Economics</a>, Research the Headlines. Interviewed by Dr Emma Carroll for the Royal Society of Edinburgh Young Academy.
 
+<a href="https://www.youtube.com/watch?v=14DxSm2E5VU">EPIP Conference Plenary video talk</a> launching Copyright Evidence in the Digital Economy. 
+
 <a href="https://www.timeshighereducation.com/news/increasing-he-participation-increases-wage-inequality">Increasing HE participation ‘increases wage inequality’</a>, The Times Higher Education.
 
 <hr>
