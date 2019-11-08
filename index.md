@@ -45,7 +45,7 @@ PhD Methods Training: Identifying Causal Effects, Finding Gaps in the Lit, Advic
 
 <a href="https://www.youtube.com/watch?v=wLvewC5f_dU">The Underground Economy</a>, TEDx talk video.
 
-<a href="https://researchtheheadlines.org/2017/09/21/talking-headlines-with-theo-koutmeridis-media-brexit-and-the-scottish-economy/">Brexit & Economics</a>, Interviewed by Dr Emma Carroll, Royal Society of Edinburgh Young Academy.
+<a href="https://researchtheheadlines.org/2017/09/21/talking-headlines-with-theo-koutmeridis-media-brexit-and-the-scottish-economy/">Brexit and Economics</a>, Interviewed by Dr Emma Carroll, Royal Society of Edinburgh Young Academy.
 
 <a href="https://www.youtube.com/watch?v=14DxSm2E5VU">EPIP Conference Plenary video talk</a> launching Copyright Evidence in the Digital Economy. 
 
