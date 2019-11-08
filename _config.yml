@@ -1,0 +1,32 @@
+title: Theodore Koutmeridis
+url: "https://koutmeridis.github.io"
+baseurl: "/"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_text: "Powered by Hugo || © 2019 Theodore Koutmeridis
+ 
+<hr>
+<hr>
+&nbsp; 
+"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "<small><b>CV</b></small>&nbsp; &nbsp;"
+   link: "cv.pdf"
+ - name: "<small><b>Email</b></small>&nbsp; &nbsp;"
+   link: "mailto: Theodore.Koutmeridis@gla.ac.uk"
+ - name: "<small><b>Twitter</b></small>&nbsp; &nbsp;"
+   link: "https://twitter.com/TheoKoutmeridis"
+ - name: "<small><b>LinkedIn</b></small>"
+   link: "https://www.linkedin.com/in/koutmeridis"
+   
+   
