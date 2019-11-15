@@ -15,7 +15,7 @@ Dr Theodore Koutmeridis is a Senior Lecturer in Economics at the Adam Smith Busi
 
 <a href="https://">Corporate Inequality and Disadvantage in the Workplace</a>, new version soon, with B. Eberth.
 
-<a href="https://">Sorting Inequality with Gender-Specific Credit Constraints</a>, new version soon.
+<a href="cv.pdf">Sorting Inequality with Gender-Specific Credit Constraints</a>, new version soon.
 
 <hr>
 <font size="+1">Projects</font>
