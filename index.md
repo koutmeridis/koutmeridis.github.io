@@ -65,7 +65,7 @@ Consulting the following RSE Working Groups: <a href="https://www.rse.org.uk/cms
 <hr>
 <font size="+1">Events</font>
 
-Selected Workshops Organised: <a href="http://cep.lse.ac.uk/_new/events/event.asp?id=512">LSE Crime Workshop</a>, <a href="http://cep.lse.ac.uk/_new/events/event.asp?id=578">LSE Youngsters in Crime Workshop</a>, <a href="https://www.gla.ac.uk/research/az/bsi/events">BSI events (full list)</a>.
+Selected Workshops Organised: <a href="http://cep.lse.ac.uk/_new/events/event.asp?id=512">LSE Crime Workshop</a>, <a href="http://cep.lse.ac.uk/_new/events/event.asp?id=578">LSE Youngsters in Crime Workshop</a>, <a href="https://www.gla.ac.uk/research/az/bsi/events">BSI events</a>.
 
 Selected Talks: <a href="https://www.youtube.com/watch?v=wLvewC5f_dU">TEDx on The Underground Economy</a>; Crime Lab New York; Public Lecture on Shifting Paradigms; Public Lecture on the Economics of Crime.
 
