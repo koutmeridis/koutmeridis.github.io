@@ -60,7 +60,7 @@ REF 2021 Impact Case Study, with Counter Fraud Services, NHS Prevention Team to 
 
 Consulting Her Majesty’s Government, Intellectual Property Office, UK Government.
 
-Consulting the following RSE Working Groups: <a href="https://www.rse.org.uk/cms/files/advice-papers/2016/AP16_23.pdf">"Inequality"</a>; "Brexit & the Economy"; ”Financial Support for Students”; "Brexit & International Students" and "Brexit, Migration & Salary Threshold"; "COVID-19, Inequalities and Human Rights" & "RSE response to the call for evidence by Scottish Government <a href="https://www.rse.org.uk/wp-content/uploads/2020/07/Just-Transition-Commission-Final-Published-Version.pdf">Just Transition Commission".
+Consulting the following RSE Working Groups: <a href="https://www.rse.org.uk/cms/files/advice-papers/2016/AP16_23.pdf">"Inequality"</a>; "Brexit & the Economy"; ”Financial Support for Students”; "Brexit & International Students" and "Brexit, Migration & Salary Threshold"; "COVID-19, Inequalities and Human Rights" & "RSE response to the call for evidence by Scottish Government <a href="https://www.rse.org.uk/wp-content/uploads/2020/07/Just-Transition-Commission-Final-Published-Version.pdf">Just Transition Commission</a>".
 
 <hr>
 <font size="+1">Events</font>
