@@ -13,7 +13,7 @@ Dr Theodore Koutmeridis is a Senior Lecturer in Economics at the Adam Smith Busi
 
 <a href="https://drive.google.com/open?id=0By2tXgpm_39oTmt0UWVPbkhaRzg">Misallocation, Education Expansion and Wage Inequality</a>, submitted.
 
-<a href="https://drive.google.com/open?id=1W2hblijAXs3J9YRlF3dJIGL3FWvhxhsF">Shaking Criminal Incentives</a>, submitted, with Y. Aoki.
+<a href="https://drive.google.com/open?id=1W2hblijAXs3J9YRlF3dJIGL3FWvhxhsF">Shaking Criminal Incentives</a>, submitted, <a href="[https://drive.google.com/open?id=1W2hblijAXs3J9YRlF3dJIGL3FWvhxhsF](https://www.dropbox.com/s/eec71w9f4oz21bt/quake_crime_EEA_2022.pdf?dl=0)">slides</a> with Y. Aoki.
 
 <a href="https://">Corporate Inequality and Disadvantage in the Workplace</a>, new version soon, with B. Eberth.
 
