@@ -97,7 +97,7 @@ Office Hours: Wednesdays 16:30-18:30. <a href="https://docs.google.com/spreadshe
   data-height="450"
   data-chrome="nofooter noheader"
   data-tweet-limit="2">
-Tweets by @TwitterDev
+Tweets by @TheoKoutmeridis
 </a>
 </center>
 <hr>
