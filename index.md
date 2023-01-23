@@ -91,13 +91,17 @@ Office Hours: Wednesdays 16:30-18:30. <a href="https://docs.google.com/spreadshe
  
 <hr>
 <center>
-<a class="twitter-timeline"
-  href="https://twitter.com/TheoKoutmeridis/timelines/1191519201393086472"
-  data-width="350"
-  data-height="450"
-  data-chrome="nofooter noheader"
-  data-tweet-limit="2">
-Tweets by @TheoKoutmeridis
-</a>
+twttr.widgets.createTimeline(
+  {
+    sourceType: "https://twitter.com/TheoKoutmeridis/timelines/1191519201393086472?ref_src=twsrc%5Etfw",
+    screenName: "@TheoKoutmeridis"
+  },
+  document.getElementById("container"),
+  {
+    height: 400,
+    chrome: "nofooter",
+    tweetLimit: 2
+  }
+);
 </center>
 <hr>
