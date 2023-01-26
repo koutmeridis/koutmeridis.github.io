@@ -93,7 +93,7 @@ Office Hours: Wednesdays 16:30-18:30. <a href="https://docs.google.com/spreadshe
 <center>
 <a class="twitter-timeline"
   href="https://twitter.com/TheoKoutmeridis/timelines/1191519201393086472"
-  data-tweet-limit="3">
+  data-aria-polite="assertive">
 Tweets by @TheoKoutmeridis
 </a>
 </center>
