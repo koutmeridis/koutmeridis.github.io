@@ -91,6 +91,6 @@ Office Hours: Wednesdays 16:30-18:30. <a href="https://docs.google.com/spreadshe
  
 <hr>
 <center>
-<a class="twitter-timeline" href="https://twitter.com/TheoKoutmeridis/timelines/1191519201393086472?ref_src=twsrc%5Etfw">@TheoKoutmeridis</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/TheoKoutmeridis?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TheoKoutmeridis</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 <hr>
