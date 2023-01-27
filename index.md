@@ -54,7 +54,7 @@ PhD Methods Training: Identifying Causal Effects, Finding Gaps in the Lit, Advic
 <hr>
 <font size="+1">Media</font>
 
-<a href="https://www.youtube.com/watch?v=130ZuvspIC0">Do Higher Prices Increase Crime?</a>, Outreach UoG video.
+<a href="https://www.youtube.com/watch?v=130ZuvspIC0">Do Higher Prices Increase Crime?</a>, University of Glasgow research outreach video.
 
 <a href="https://drive.google.com/open?id=1X9roPuCMJKUG4zYvJ-uEb7tyJxaInkrV">Interview: RSE Henry Duncan Medal</a>, The Royal Society of Edinburgh, interview on pages 8-9.
 
