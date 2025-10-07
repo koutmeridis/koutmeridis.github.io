@@ -87,9 +87,9 @@ Selected Talks: <a href="https://www.youtube.com/watch?v=wLvewC5f_dU">TEDx on Th
 <hr>
 <font size="+1">Contact</font>
 
-Gilbert Scott Building, East Quad, University of Glasgow, G12 8QQ, UK. <a href="https://drive.google.com/open?id=1TOothahOgkqrJULOJooA37D1CObEJVqo">Map to my office</a>.
+Adam Smith Business School, 2 Discovery Pl, Glasgow G11 6EY - Room 534
 
-Office Hours: Wednesdays 16:30-18:30. <a href="https://docs.google.com/spreadsheets/d/1MJxlb7h8nisE_aNPsQmfIIxtGko3QPJFUlH6Ak6J2L8/edit#gid=0">Please sign up here</a>, or email me for an appointment.
+Office Hours: Wednesdays 16:30-18:30 <a href="https://docs.google.com/spreadsheets/d/1MJxlb7h8nisE_aNPsQmfIIxtGko3QPJFUlH6Ak6J2L8/edit#gid=0">Please sign up here</a>, or email me for an appointment
  
 <hr>
 <center>
