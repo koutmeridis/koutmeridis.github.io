@@ -87,9 +87,9 @@ Selected Talks: <a href="https://www.youtube.com/watch?v=wLvewC5f_dU">TEDx on Th
 <hr>
 <font size="+1">Contact</font>
 
-Office 534, Adam Smith Business School, 2 Discovery Pl, Glasgow G11 6EY - <a href="https://www.accessable.co.uk/university-of-glasgow/access-guides/adam-smith-business-school> Map </a>
+Office: 534. Address: Adam Smith Business School, 2 Discovery Pl, Glasgow G11 6EY.
 
-Office Hours: Wednesdays 16:30-18:30 - <a href="https://docs.google.com/spreadsheets/d/1MJxlb7h8nisE_aNPsQmfIIxtGko3QPJFUlH6Ak6J2L8/edit#gid=0">Please sign up here</a>, or email me for an appointment
+Office Hours: Wednesdays 16:30-18:30. <a href="https://docs.google.com/spreadsheets/d/1MJxlb7h8nisE_aNPsQmfIIxtGko3QPJFUlH6Ak6J2L8/edit#gid=0">Please sign up here</a>, or email me for an appointment.
  
 <hr>
 <center>
