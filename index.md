@@ -87,8 +87,6 @@ Selected Talks: <a href="https://www.youtube.com/watch?v=wLvewC5f_dU">TEDx on Th
 <hr>
 <font size="+1">PhD Supervision</font>
 
-Current PhD:
-
 Tao Xinyu (PhD in Economics, 2020-2025), “Causal Inference in Policy Evaluation: Methods and Applications”
 
 Anh Ngo (PhD in Economics, 2020-2025), “Essays on Poverty Traps”
@@ -96,8 +94,6 @@ Anh Ngo (PhD in Economics, 2020-2025), “Essays on Poverty Traps”
 Selassi Spence (PhD in Economics, 2024-2028, fully funded with a James McCune Smith PhD Scholarship), “Essays in Applied Economics”
 
 Praveen, Anandu (PhD in Economics, 2025-2029), “Socio-economic Impact of Return Migration: A Study of Kerala with Special Reference to the COVID-19 Pandemic"
-
-PhDs Supervised to Completion:
 
 Jaakko Miettinen (PhD in Economics, 2014-2018, fully funded with a CREATe Microeconomics Scholarship - completed), "Essays on the Economics of Copyright"
 
