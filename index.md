@@ -3,7 +3,7 @@ layout: default
 ---
 <img class="profile-picture" src="theo1.png"> 
 
-Dr Theodore Koutmeridis is a Senior Lecturer in Economics at the Adam Smith Business School at the University of Glasgow. He holds a PhD in Economics from Warwick University where he was an Onassis Scholar and a Royal Economic Society Junior Fellow. His research on inequality, poverty and crime has won various awards, such as the Sir Alec Cairncross Prize in Economics, the 1st Prize of the European Science Days Interdisciplinary Award, and has been featured in the media and in various symposia, such as his <a href="https://www.youtube.com/watch?v=wLvewC5f_dU">"Underground Economy"</a> TEDx talk and his <a href="https://www.youtube.com/watch?v=130ZuvspIC0">"Crime and Prices"</a> video. His work has been awarded grants for research, teaching, impact, engagement, and is funded via a £700,000 <a href="https://www.gla.ac.uk/research/az/accountability/">ESRC-DFID</a> grant for parental practices in Indian public schools. He is fully committed to outreach and impact, contributing to numerous consultations, policy reports and to a <a href="https://results2021.ref.ac.uk/impact/17430be1-20f5-4b8e-9860-955fdca1e6c5?page=1">REF impact case study</a>. He is affiliated with the Institute of Labor Economics IZA, the Advanced Research Centre ARC and Scotland Beyond Net Zero, while he was a Visiting Scholar with Principal’s Fellowship at Columbia University and at UC Berkeley. His work spans the conventional disciplinary, methodological and national boundaries with research conducted in India, USA, UK, Japan and Poland among others, and with teaching, research and engagement activities in Prague, Warsaw, Columbia and Berkeley. He is the recipient of the <a href="https://www.gla.ac.uk/myglasgow/news/headline_517455_en.html?utm_medium=email&utm_source=newsletter&utm_campaign=http://www.gla.ac.uk/myglasgow/news/">British Academy Rising Star Award</a> and the <a href="https://www.youngacademyofscotland.org.uk/news/dr-theodore-koutmeridis-wins-rse-henry-duncan-medal/">RSE Henry Duncan Medal</a>, which according to the Royal Society of Edinburgh he was awarded ''for his outstanding work in the field of economics where he combines a clear mastery of the microeconomic methodology, a keen instinct for its empirical applications and a deep commitment to engagement activities.''
+Dr Theodore Koutmeridis is a Senior Lecturer in Economics at the Adam Smith Business School at the University of Glasgow. He holds a PhD in Economics from Warwick University where he was an Onassis Scholar and a Royal Economic Society Junior Fellow. His research on inequality, poverty and crime has won various awards, such as the Sir Alec Cairncross Prize in Economics, the 1st Prize of the European Science Days Interdisciplinary Award, and has been featured in the media and in various symposia, such as his <a href="https://www.youtube.com/watch?v=wLvewC5f_dU">"Underground Economy"</a> TEDx talk and his <a href="https://www.youtube.com/watch?v=130ZuvspIC0">"Crime and Prices"</a> video. His work has been awarded grants for research, teaching, impact, engagement, and is funded via a £700,000 <a href="https://www.gla.ac.uk/research/az/accountability/">ESRC-DFID</a> grant for parental practices in Indian public schools. He is fully committed to outreach and impact, contributing to numerous consultations, policy reports and to a <a href="https://results2021.ref.ac.uk/impact/17430be1-20f5-4b8e-9860-955fdca1e6c5?page=1">REF impact case study</a>. He is affiliated with the Institute of Labor Economics IZA, the Advanced Research Centre ARC and Scotland Beyond Net Zero, while he was a Visiting Scholar with Principal’s Fellowship at Columbia University. His work spans the conventional disciplinary, methodological and national boundaries with research conducted in India, USA, UK, Japan and Poland among others, and with teaching, research and/ or engagement activities in Prague, Warsaw, Columbia and UC Berkeley. He is the recipient of the <a href="https://www.gla.ac.uk/myglasgow/news/headline_517455_en.html?utm_medium=email&utm_source=newsletter&utm_campaign=http://www.gla.ac.uk/myglasgow/news/">British Academy Rising Star Award</a> and the <a href="https://www.youngacademyofscotland.org.uk/news/dr-theodore-koutmeridis-wins-rse-henry-duncan-medal/">RSE Henry Duncan Medal</a>, which according to the Royal Society of Edinburgh he was awarded ''for his outstanding work in the field of economics where he combines a clear mastery of the microeconomic methodology, a keen instinct for its empirical applications and a deep commitment to engagement activities.''
 
 <a href="https://results2021.ref.ac.uk/impact/17430be1-20f5-4b8e-9860-955fdca1e6c5?page=1">Impact Case Study - Increasing financial recoveries for NHS using behavioural economics insights</a>
 
@@ -83,6 +83,33 @@ Consulting the following RSE Working Groups: <a href="https://www.rse.org.uk/cms
 Selected Workshops Organised: <a href="http://cep.lse.ac.uk/_new/events/event.asp?id=512">LSE Crime Workshop</a>, <a href="http://cep.lse.ac.uk/_new/events/event.asp?id=578">LSE Youngsters in Crime Workshop</a>, <a href="https://www.gla.ac.uk/research/az/bsi/events">BSI events</a>.
 
 Selected Talks: <a href="https://www.youtube.com/watch?v=wLvewC5f_dU">TEDx on The Underground Economy</a>; Crime Lab New York; Public Lecture on Shifting Paradigms; Public Lecture on the Economics of Crime.
+
+<hr>
+<font size="+1">PhD Supervision</font>
+
+Current PhD:
+
+Tao Xinyu (PhD in Economics, 2020-2025), “Causal Inference in Policy Evaluation: Methods and Applications”
+
+Anh Ngo (PhD in Economics, 2020-2025), “Essays on Poverty Traps”
+
+Selassi Spence (PhD in Economics, 2024-2028, fully funded with a James McCune Smith PhD Scholarship), “Essays in Applied Economics”
+
+Praveen, Anandu (PhD in Economics, 2025-2029), “Socio-economic Impact of Return Migration: A Study of Kerala with Special Reference to the COVID-19 Pandemic"
+
+PhDs Supervised to Completion:
+
+Jaakko Miettinen (PhD in Economics, 2014-2018, fully funded with a CREATe Microeconomics Scholarship - completed), "Essays on the Economics of Copyright"
+
+Prateek Chandra Bhan (PhD in Economics, 2017-2021, fully funded with a College of Social Sciences PhD Scholarship - completed), "Essays in the Economics of Hope", Adam Smith Business School Excellence in Research.
+
+Jinglin Wen, (PhD in Economics, 2018-2022, fully funded with a PhD Scholarship - completed), "Essays on Gender and Criminal Justice", Adam Smith Business School Excellence in Research.
+
+Erika Leigh Anderson (PhD in Economic and Social History, 2018-2022 - completed), "Essays on Corporate Social Responsibility"
+
+Daniel Siwecki (PhD in Economics, 2019-2023, fully funded with a College of Social Sciences PhD Scholarship - completed), "Essays on Universal Basic Income"
+
+Kaizhao Guo (PhD in Economics, 2019-2024, completed), “Automation Technologies and Labour Market Outcomes”, Adam Smith Business School Excellence in Research
 
 <hr>
 <font size="+1">Contact</font>
