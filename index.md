@@ -95,17 +95,17 @@ Selassi Spence (PhD in Economics, 2024-2028, fully funded with a James McCune Sm
 
 Praveen, Anandu (PhD in Economics, 2025-2029), “Socio-economic Impact of Return Migration: A Study of Kerala with Special Reference to the COVID-19 Pandemic"
 
-Jaakko Miettinen (PhD in Economics, 2014-2018, fully funded with a CREATe Microeconomics Scholarship - completed), "Essays on the Economics of Copyright"
+* Jaakko Miettinen (PhD in Economics, 2014-2018, fully funded with a CREATe Microeconomics Scholarship - completed), "Essays on the Economics of Copyright"
 
-Prateek Chandra Bhan (PhD in Economics, 2017-2021, fully funded with a College of Social Sciences PhD Scholarship - completed), "Essays in the Economics of Hope", Adam Smith Business School Excellence in Research.
+* Prateek Chandra Bhan (PhD in Economics, 2017-2021, fully funded with a College of Social Sciences PhD Scholarship - completed), "Essays in the Economics of Hope", Adam Smith Business School Excellence in Research.
 
-Jinglin Wen, (PhD in Economics, 2018-2022, fully funded with a PhD Scholarship - completed), "Essays on Gender and Criminal Justice", Adam Smith Business School Excellence in Research.
+* Jinglin Wen, (PhD in Economics, 2018-2022, fully funded with a PhD Scholarship - completed), "Essays on Gender and Criminal Justice", Adam Smith Business School Excellence in Research.
 
-Erika Leigh Anderson (PhD in Economic and Social History, 2018-2022 - completed), "Essays on Corporate Social Responsibility"
+* Erika Leigh Anderson (PhD in Economic and Social History, 2018-2022 - completed), "Essays on Corporate Social Responsibility"
 
-Daniel Siwecki (PhD in Economics, 2019-2023, fully funded with a College of Social Sciences PhD Scholarship - completed), "Essays on Universal Basic Income"
+* Daniel Siwecki (PhD in Economics, 2019-2023, fully funded with a College of Social Sciences PhD Scholarship - completed), "Essays on Universal Basic Income"
 
-Kaizhao Guo (PhD in Economics, 2019-2024, completed), “Automation Technologies and Labour Market Outcomes”, Adam Smith Business School Excellence in Research
+* Kaizhao Guo (PhD in Economics, 2019-2024, completed), “Automation Technologies and Labour Market Outcomes”, Adam Smith Business School Excellence in Research
 
 <hr>
 <font size="+1">Contact</font>
