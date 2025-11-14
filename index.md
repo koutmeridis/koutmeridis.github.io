@@ -103,7 +103,7 @@ Erika Leigh Anderson (PhD in Economic and Social History, 2018-2022 - completed)
 
 Jinglin Wen, (PhD in Economics, 2018-2022, fully funded with a PhD Scholarship - completed), "Essays on Gender and Criminal Justice", Adam Smith Business School Excellence in Research Award.
 
-Prateek Chandra Bhan (PhD in Economics, 2017-2021, College of Social Sciences PhD Scholarship - completed), "Essays in the Economics of Hope", Adam Smith Business School Excellence in Research Award.
+Prateek Chandra Bhan (PhD in Economics, 2017-2021, College of Social Sciences PhD Scholarship - completed), "Essays in the Economics of Hope", Adam Smith Excellence in Research Award.
 
 Jaakko Miettinen (PhD in Economics, 2014-2018, fully funded with a CREATe Microeconomics Scholarship - completed), "Essays on the Economics of Copyright".
 
