@@ -9,7 +9,9 @@ Dr Theodore Koutmeridis is a Senior Lecturer in Economics at the University of G
 
 <a href="https://results2021.ref.ac.uk/impact/17430be1-20f5-4b8e-9860-955fdca1e6c5?page=1">Impact Case Study - Increasing financial recoveries for NHS using behavioural economics insights</a>
 
+<!--
 <a href="https://drive.google.com/file/d/1qeq5rU1jtEJn6sd1ASYU8-M51Wu4VmGB/view">Greek bio - Βιογραφικό</a>
+-->
 
 <hr>
 <font size="+1">Research</font>
