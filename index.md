@@ -58,7 +58,7 @@ PhD Methods Training: Identifying Causal Effects, Finding Gaps in the Lit, Advic
 <hr>
 <font size="+1">Media</font>
 
-<a href="https://www.gla.ac.uk/explore/glasgowsocialscienceshub/resources/all/headline_1263932_en.html">Teaching Economics using the "Democracy Lab" approach</a>, University of Glasgow post and <a href="https://youtu.be/aZdzlWq1jeI?si=k28RRm5swMvDkwFM">"video"</a>. 
+<a href="https://www.gla.ac.uk/explore/glasgowsocialscienceshub/resources/all/headline_1263932_en.html">Teaching Economics using the "Democracy Lab" approach</a>, University of Glasgow post and <a href="https://youtu.be/aZdzlWq1jeI?si=k28RRm5swMvDkwFM">video</a>. 
 
 <a href="https://www.youtube.com/watch?v=130ZuvspIC0">Do Higher Prices Increase Crime?</a>, University of Glasgow research outreach video.
 
