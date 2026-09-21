@@ -23,6 +23,8 @@ Dr Theodore Koutmeridis is a Senior Lecturer in Economics at the University of G
 
 <a href="https://drive.google.com/open?id=1W2hblijAXs3J9YRlF3dJIGL3FWvhxhsF">Shaking Criminal Incentives</a>, submitted, <a href="https://drive.google.com/file/d/1-S8kFEkcVUZ1M9Mjel5s-hObkYvVLw92">Slides</a>, with Y. Aoki.
 
+<a href="https://">Learning to Parent: Isolation and the Diffusion of Parenting Practices</a>, new version soon, with P. Dalton, S. Ghosal, S. Ghosh and S. Roy.
+
 <a href="https://">Corporate Inequality and Disadvantage in the Workplace</a>, new version soon, with B. Eberth.
 
 <a href="https://">Sorting Inequality with Gender-Specific Credit Constraints</a>, new version soon.
