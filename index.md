@@ -17,9 +17,9 @@ Dr Theodore Koutmeridis is a Senior Lecturer in Economics at the University of G
 <font size="+1">Research</font>
 <a href="https://drive.google.com/open?id=1vdsElTF0eo-zLF7bTasCZNXo1dqfxcZo">The Changing Returns to Crime: Do Criminals Respond to Prices?</a>, _Review of Economic Studies_, 2019, with M. Draca and S. Machin.
 
-<a href="https://www.dropbox.com/scl/fi/9ud96k6qq9ikdanymi4ex/UI_after_incarceration.pdf">Unemployment Insurance after Incarceration</a>, submitted, with Y.W.L. Chu and E. Gałecka-Burdziak
+<a href="https://"Unemployment Insurance after Incarceration</a>, submitted, with Y.W.L. Chu and E. Gałecka-Burdziak
 
-<a href="https://www.dropbox.com/scl/fi/2jz36hf1ohplna08fh8kp/CreamSkimming_tk_2026.pdf">Cream-Skimming and the Wage Structure</a>, submitted.
+<a href="https://"Cream-Skimming and the Wage Structure</a>, submitted.
 
 <a href="https://drive.google.com/open?id=1W2hblijAXs3J9YRlF3dJIGL3FWvhxhsF">Shaking Criminal Incentives</a>, submitted, <a href="https://drive.google.com/file/d/1-S8kFEkcVUZ1M9Mjel5s-hObkYvVLw92">Slides</a>, with Y. Aoki.
 
