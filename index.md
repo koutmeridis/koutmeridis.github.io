@@ -99,25 +99,26 @@ Selected Talks: <a href="https://www.youtube.com/watch?v=wLvewC5f_dU">TEDx on Th
 <hr>
 <font size="+1">PhD Supervision</font>
 
-Praveen, Anandu (PhD in Economics, 2025-2029), “Socio-economic Impact of Return Migration: A Study of Kerala with Special Reference to the COVID-19 Pandemic".
+PhD Supervision (ongoing):
+– Fajar Hadi Pratama (PhD in Economics, 2026– ; Full Scholarship Indonesian Ministry of Finance), “Productivity and Resource Misallocation.”
+– Anandu Praveen (PhD in Economics, 2025– ), “Socio-economic Impact of Return Migration: A Study of Kerala
+with Special Reference to the COVID-19 Pandemic.”
+– Anh Ngo (PhD in Economics, 2020– ), “Essays on Poverty Traps.”
+– Tao Xinyu (PhD in Economics, 2020– ), “Causal Inference in Policy Evaluation: Methods and Applications.”
 
-Selassi Spence (PhD in Economics, 2024-2028, fully funded with a James McCune Smith PhD Scholarship), “Essays in Applied Economics”.
-
-Anh Ngo (PhD in Economics, 2020-2025), “Essays on Poverty Traps”.
-
-Tao Xinyu (PhD in Economics, 2020-2025), “Causal Inference in Policy Evaluation: Methods and Applications”.
-
-Kaizhao Guo (PhD in Economics, 2019-2024, completed), “Automation Technologies and Labour Market Outcomes”, Adam Smith Business School Excellence in Research Award.
-
-Daniel Siwecki (PhD in Economics, 2019-2023, fully funded with a College of Social Sciences PhD Scholarship - completed), "Essays on Universal Basic Income".
-
-Erika Leigh Anderson (PhD in Economic and Social History, 2018-2022 - completed), "Essays on Corporate Social Responsibility".
-
-Jinglin Wen, (PhD in Economics, 2018-2022, fully funded with a PhD Scholarship - completed), "Essays on Gender and Criminal Justice", Adam Smith Business School Excellence in Research Award.
-
-Prateek Chandra Bhan (PhD in Economics, 2017-2021, College of Social Sciences PhD Scholarship - completed), "Essays in the Economics of Hope", Adam Smith Excellence in Research Award.
-
-Jaakko Miettinen (PhD in Economics, 2014-2018, fully funded with a CREATe Microeconomics Scholarship - completed), "Essays on the Economics of Copyright".
+PhD Supervision (completed):
+– Kaizhao Guo (PhD in Economics, 2019–24, completed), “Automation Technologies and Labour Market Outcomes”;
+Adam Smith Business School Excellence in Research Award.
+– Daniel Siwecki (PhD in Economics, 2019–24, completed; College of Social Sciences PhD Scholarship), “Essays on
+Universal Basic Income.”
+– Jinglin Wen (PhD in Economics, 2018–23, completed; PhD Scholarship, China Council), “Essays on Gender and
+Criminal Justice”; Adam Smith Business School Excellence in Research Award.
+– Erika Leigh Anderson (PhD in Economic and Social History, 2018–22, completed), “Essays on Corporate Social
+Responsibility.”
+– Prateek Chandra Bhan (PhD in Economics, 2017–21, completed; College of Social Sciences PhD Scholarship),
+“Essays in the Economics of Hope”; Adam Smith Business School Excellence in Research.
+– Jaakko Miettinen (PhD in Economics, 2014–19, completed; CREATe Microeconomics PhD Scholarship), “Essays
+on the Economics of Copyright.”
 
 <hr>
 <font size="+1">Contact</font>
