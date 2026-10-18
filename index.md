@@ -116,7 +116,7 @@ Adam Smith Business School Excellence in Research Award.
 – Daniel Siwecki (PhD in Economics, 2019–24, completed; College of Social Sciences PhD Scholarship), “Essays on
 Universal Basic Income.”
 
-– Jinglin Wen (PhD in Economics, 2018–23, completed; PhD Scholarship, China Council), “Essays on Gender and
+– Jinglin Wen (PhD in Economics, 2018–23, completed; China Council PhD Scholarship), “Essays on Gender and
 Criminal Justice”; Adam Smith Business School Excellence in Research Award.
 
 – Erika Leigh Anderson (PhD in Economic and Social History, 2018–22, completed), “Essays on Corporate Social
