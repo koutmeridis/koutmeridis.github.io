@@ -99,8 +99,6 @@ Selected Talks: <a href="https://www.youtube.com/watch?v=wLvewC5f_dU">TEDx on Th
 <hr>
 <font size="+1">PhD Supervision</font>
 
-PhD Supervision (ongoing):
-
 – Fajar Hadi Pratama (PhD in Economics, 2026– ; Full Scholarship Indonesian Ministry of Finance), “Productivity and Resource Misallocation.”
 
 – Anandu Praveen (PhD in Economics, 2025– ), “Socio-economic Impact of Return Migration: A Study of Kerala
